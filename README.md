@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Jiahao / 嘉豪
+# Jiahao
 
 **AI Application & Full-Stack Engineer · Open-Source Contributor**
 
